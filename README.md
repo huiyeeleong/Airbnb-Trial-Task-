@@ -14,6 +14,7 @@ How to run the simple service (windows platform)
 6. When the simple service start running, it will ask for the input of URL. Just input any Airbnb user URL to see the results.
 
 List of example Airbnb user URL 
+
 https://www.airbnb.com.au/users/show/80621455
 https://www.airbnb.com.au/users/show/36583291
 https://www.airbnb.com.au/users/show/39568912
