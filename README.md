@@ -8,6 +8,7 @@ How to run the simple service (windows platform)
 2. Once the file is donwloaded. Save it on your desktop.
 3. Navigate to your search toolbar on bottom left to search CMD.
 4. Once you see the black window prompt out, change the directory to Desktop use the command 
+    
     cd Desktop -> cd Airbnb-Trial-Task--master 
 5. Start to run script inside the CLI. Use the command 
     python AirBnB_Trial_Task.py
