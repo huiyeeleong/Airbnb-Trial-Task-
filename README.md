@@ -5,10 +5,10 @@ Initially the data compared against should just contain Melbourne based users id
 
 How to run the simple service (windows platform)
 1. Download the python script. Click on the clone or download green button.
-2. Once the script is download. Place the script on your desktop.
+2. Once the file is donwloaded. Save it on your desktop.
 3. Navigate to your search toolbar on bottom left to search CMD.
 4. Once you see the black window prompt out, change the directory to Desktop use the command 
-    cd Desktop
+    cd Desktop -> cd Airbnb-Trial-Task--master 
 5. Start to run script inside the CLI. Use the command 
     python AirBnB_Trial_Task.py
 6. When the simple service start running, it will ask for the input of URL. Just input any Airbnb user URL to see the results.
@@ -16,9 +16,14 @@ How to run the simple service (windows platform)
 List of example Airbnb user URL 
 
 https://www.airbnb.com.au/users/show/80621455
+
 https://www.airbnb.com.au/users/show/36583291
+
 https://www.airbnb.com.au/users/show/39568912
+
 https://www.airbnb.com.au/users/show/28228036
+
 https://www.airbnb.com.au/users/show/61033895
+
 https://www.airbnb.com.au/users/show/122699676
 
